@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/asset_process/CoACD" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/CoACD/3rd/cdt" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/CoACD/3rd/cdt/CDT/tests/Catch2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/CoACD/build/_deps/openvdb-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/CoACD/build/_deps/spdlog-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/CoACD/build/_deps/tbb-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/CoACD/build/_deps/zlib-src" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/ManifoldPlus" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/ManifoldPlus/3rd_party/eigen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/asset_process/ManifoldPlus/3rd_party/libigl" vcs="Git" />
+  </component>
+</project>
