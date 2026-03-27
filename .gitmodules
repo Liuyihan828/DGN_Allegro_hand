@@ -1,0 +1,6 @@
+[submodule "asset_process/ManifoldPlus"]
+	path = asset_process/ManifoldPlus
+	url = https://github.com/hjwdzh/ManifoldPlus.git
+[submodule "asset_process/CoACD"]
+	path = asset_process/CoACD
+	url = https://github.com/SarahWeiii/CoACD.git
